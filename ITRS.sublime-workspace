@@ -1,0 +1,1157 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"conf",
+				"confirm"
+			],
+			[
+				"csv",
+				"csvArrays"
+			],
+			[
+				"ng-op",
+				"ng-options\tAngularJS"
+			],
+			[
+				"ng-in",
+				"ng-init\tAngularJS"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"curre",
+				"currentSubTab"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"hi",
+				"Highlight"
+			],
+			[
+				"impo",
+				"Important"
+			],
+			[
+				"cart_label_your",
+				"cart_label_your_email"
+			],
+			[
+				"cart_label_your_",
+				"cart_label_your_name"
+			],
+			[
+				"products",
+				"productsCatalog"
+			],
+			[
+				"index",
+				"indexProd"
+			],
+			[
+				"inde",
+				"indexProd"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"car",
+				"cart-email"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"chek",
+				"checked"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"wo",
+				"workingFolder"
+			],
+			[
+				"ov",
+				"overflow-y"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"prod",
+				"prodId"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"se",
+				"sendClass"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"tran",
+				"translateY()"
+			],
+			[
+				"font-sty",
+				"font-style"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"ng-bi",
+				"ng-bind-html\tAngularJS"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ng",
+				"ng-class\tAngularJS"
+			],
+			[
+				"ori",
+				"originalSize"
+			],
+			[
+				"ng-bind",
+				"ng-bind-html\tAngularJS"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"selec",
+				"selectedLink"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"sele",
+				"selectedLink"
+			],
+			[
+				"cat",
+				"catch"
+			],
+			[
+				"ng-c",
+				"ng-change\tAngularJS"
+			],
+			[
+				"ng-cl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pa",
+				"page"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"vid",
+				"videoP"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"ar",
+				"margin-right"
+			],
+			[
+				"as",
+				"aside\tTag"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"NEWSLETTER_STATUS_",
+				"NEWSLETTER_STATUS_OK"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"t",
+				"type\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/css/style.less",
+			"settings":
+			{
+				"buffer_size": 664,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\n  // Boolean setting to auto-insert a semicolon after a \":\" is typed.\n  \"auto_insert_semicolon\": false\n}\n",
+			"file": "/C/Users/Ruben/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 107,
+				"line_ending": "Windows",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/U/xampp/htdocs/tests/ITRS"
+	],
+	"file_history":
+	[
+		"/C/UF.DEV/VS2013/CODE/UF.VSO/UNIFUTBOL®/UFWeb/Content/uf-layout.less",
+		"/U/ASYSTEMS/App/main-2016.member2.publicationlist.css",
+		"/U/ASYSTEMS/App/publicationsListGet.php",
+		"/U/ASYSTEMS/App/inc.cart.php",
+		"/U/ASYSTEMS/App/DIBS.Flexwin.Responsive.v12/v12fix/decorator.xml",
+		"/U/xampp/htdocs/tests/ITRS/README.md",
+		"/U/ASYSTEMS/App/DIBS.Flexwin.Responsive.v12/v12fix/umates/decorator.js",
+		"/C/Users/Ruben/AppData/Local/Temp/1-inc.cartorder2.php",
+		"/U/ASYSTEMS/App/inc.cartorder.php",
+		"/U/ASYSTEMS/App/publicationslist/app/components/uniflip-list-test.html",
+		"/U/ASYSTEMS/App/publicationslist/app/components/uniflip-list-test.js",
+		"/U/ASYSTEMS/App/publicationslist/app/controllers/publicationslist.js",
+		"/U/ASYSTEMS/App/_CMS/member2.publicationslist/member2.publicationslist.php",
+		"/U/ASYSTEMS/App/getPublicationList.php",
+		"/U/ASYSTEMS/App/memberfolders2.js",
+		"/U/ASYSTEMS/App/inc.cartorder.2015.12.11.php",
+		"/U/ASYSTEMS/App/DIBS.Flexwin.Responsive.v12/v12fix/decorator.js",
+		"/U/ASYSTEMS/App/payment2.html",
+		"/U/ASYSTEMS/App/DIBS.Flexwin.Responsive.v12/v12fix/decorator.css",
+		"/U/ASYSTEMS/App/DIBS.Flexwin.Responsive.v12/v12fix/umates/decorator.css",
+		"/U/ASYSTEMS/App/DIBS.Flexwin.Responsive.v12/v12fix/decorator.2017.06.22.js",
+		"/U/ASYSTEMS/App/Flexwin_Responsive_v12/v12fix/decorator.xml",
+		"/U/ASYSTEMS/App/decorator.xml",
+		"/U/ASYSTEMS/App/publicationslist/app/components/uniflip-list.html",
+		"/U/ASYSTEMS/App/publicationslist/app/components/uniflip-list.js",
+		"/U/ASYSTEMS/App/reuploadCatalog.php",
+		"/U/ASYSTEMS/App/memberupload2.js",
+		"/U/ASYSTEMS/App/cutCatalogSendtoweb.php",
+		"/C/Users/Ruben/AppData/Roaming/Skype/My Skype Received Files/index(1).php",
+		"/U/ASYSTEMS/App/editCatalog.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/member2.editcatalog.cart.php",
+		"/U/ASYSTEMS/App/unidragger/app/controllers/unidragger.js",
+		"/U/ASYSTEMS/App/copyPublicationLinks.php",
+		"/U/ASYSTEMS/App/uniDraggerPost.php",
+		"/U/ASYSTEMS/App/chart.checkout.index.php",
+		"/U/ASYSTEMS/App/chart.checkoutdibs.index.php",
+		"/U/ASYSTEMS/App/chart.checkout2.index.php",
+		"/U/ASYSTEMS/App/payment-ruben-1.html",
+		"/U/Dropbox/UNIFUTBOL/base.datos/Registro.txt",
+		"/U/ASYSTEMS/ruben-ejemplo3.csv",
+		"/C/Users/Ruben/AppData/Local/Temp/1-default.js",
+		"/C/Users/Ruben/AppData/Local/Temp/3-uf-cart.js",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.06.19/member2.editcatalog.cart.xx.php",
+		"/C/Users/Ruben/AppData/Roaming/Skype/My Skype Received Files/index.php",
+		"/U/xampp/htdocs/plugins/jquery-csv/examples/basic-usage.html",
+		"/U/ASYSTEMS/ruben-ejemplo42.csv",
+		"/U/ASYSTEMS/ruben-ejemplo4.csv",
+		"/U/ASYSTEMS/ruben-ejemplo5.csv",
+		"/U/xampp/htdocs/plugins/jquery-csv/examples/file-handling.html",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.06.13/member2.editcatalog.cart.2.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.06.13/member2.editcatalog.cart.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.06.09/member2.editcatalog.cart.ts.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.05.31/member2.editcatalog.cart.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.06.09/member2.editcatalog.cart.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.06.09/member2.editcatalog.cart.xx.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.06.09.currency.price/member2.editcatalog.cart.xx.php",
+		"/U/Dropbox/UNIFUTBOL/dirección/Registro de cambios.txt",
+		"/U/ASYSTEMS/ruben-ejemplo.csv",
+		"/U/ASYSTEMS/ruben-ejemplo2.csv",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.06.09/member2.editcatalog.cart.us.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.06.09/member2.editcatalog.cart.da.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/member2.editcatalog.cart.xx.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/member2.editcatalog.cart.da.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/member2.editcatalog.cart.us.php",
+		"/C/Users/Ruben/AppData/Local/Temp/1-default.mobile.2017.js",
+		"/C/Users/Ruben/AppData/Local/Temp/1-catalog.2017.js",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.05.31/member2.editcatalog.cart.xx.php",
+		"/U/SOCIALPOINT/paths.php",
+		"/U/SOCIALPOINT/babai.php",
+		"/C/Users/Ruben/AppData/Local/Temp/1-version.xml",
+		"/U/ASYSTEMS/App/getPublication.php",
+		"/C/Users/Ruben/AppData/Local/Temp/2-uf-cart.php",
+		"/U/ASYSTEMS/Viewer/catalog.js",
+		"/U/Dropbox/UNIFUTBOL/dirección/Registro.lee.Carles.txt",
+		"/U/ASYSTEMS/Viewer/default.cart.js",
+		"/C/Users/Ruben/AppData/Local/Temp/1-index.form.u.php",
+		"/C/Users/Ruben/AppData/Local/Temp/3-uf-cart.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.05.23/member2.editcatalog.cart.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.cart/2017.05.22/member2.editcatalog.cart.xx.php",
+		"/C/Users/Ruben/AppData/Local/Temp/4-uf-cart.js",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.unidragger/member2.editcatalog.unidragger.php",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.generelsettings/generelsettings.php",
+		"/U/ASYSTEMS/App/copyPublicationShop.php",
+		"/U/ASYSTEMS/App/uniDraggerGet.php",
+		"/C/UF.DEV/VS98/CODE/frmPlanificacion.frx",
+		"/C/UF.DEV/VS98/CODE/frmPlanificacion.frm",
+		"/C/UF.DEV/VS98/CODE/ModPlanificacion.bas",
+		"/U/Dropbox/UNIFUTBOL/dirección/Registro.txt",
+		"/C/Users/Ruben/AppData/Local/Temp/1-index.form.php",
+		"/U/ASYSTEMS/App/setShop.php",
+		"/C/Users/Ruben/AppData/Local/Temp/1-uf-cart.css",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog.publish/member2.editcatalog.publish.php",
+		"/U/Dropbox/UNIFUTBOL/dirección/V4 portable/leeme.txt",
+		"/U/ASYSTEMS/App/savelinks.php",
+		"/C/Users/Ruben/AppData/Local/Temp/1-html5.html",
+		"/C/Users/Ruben/AppData/Local/Temp/1-catalogv9.css",
+		"/C/Users/Ruben/AppData/Local/Temp/1-catalog.js",
+		"/C/Users/Ruben/AppData/Local/Temp/1-default.cart.js",
+		"/U/ASYSTEMS/App/main-2016.member2.unidragger.css",
+		"/C/Users/Ruben/AppData/Local/Temp/1-catalogv9.cart.css",
+		"/C/Users/Ruben/AppData/Local/Temp/2-catalogv9.css",
+		"/U/ASYSTEMS/App/inc.templates.php",
+		"/U/xampp/htdocs/.htaccess",
+		"/C/Users/Ruben/AppData/Local/Temp/1-strings_spanish.txt",
+		"/U/ASYSTEMS/App/getPublications.php",
+		"/C/Users/Ruben/AppData/Local/Temp/4-html5.html",
+		"/C/Users/Ruben/AppData/Local/Temp/1-video.js",
+		"/U/ASYSTEMS/App/getPublicationsList.php",
+		"/C/Users/Ruben/Desktop/futbenne_ufmant.sql",
+		"/C/Users/Ruben/AppData/Local/Temp/3-html5.html",
+		"/U/ASYSTEMS/App/main-2016.member2.merge.css",
+		"/U/ASYSTEMS/App/_CMS/member2.editcatalog/member2.editcatalog.php",
+		"/U/ASYSTEMS/App/_CMS/digital_magazines/sell_PDF_to_flipbooks_from_your_website_free_software.php",
+		"/U/ASYSTEMS/App/sitemap.php",
+		"/U/ASYSTEMS/App/_CMS/digital_magazines/digital_magazines.php",
+		"/U/ASYSTEMS/App/_CMS/member.guides.publications/member.guides.publications.xx.php",
+		"/U/ASYSTEMS/App/_CMS/member2.profile/member2.profile.us.php",
+		"/C/Users/Ruben/AppData/Local/Temp/1-index.form2.php",
+		"/C/Users/Ruben/AppData/Local/Temp/2-index.form.php",
+		"/C/Users/Ruben/AppData/Local/Temp/3-index.form.php",
+		"/U/ASYSTEMS/App/_CMS/member2.profile/2017.04.03/member2.profile.xx.php",
+		"/U/ASYSTEMS/App/_CMS/member2.profile/2017.04.03/member2.profile.dk.php",
+		"/U/ASYSTEMS/App/setProfile.php",
+		"/U/ASYSTEMS/App/getProfile.xx.php",
+		"/C/Users/Ruben/AppData/Local/Temp/2-index.php",
+		"/U/ASYSTEMS/App/getShop.php",
+		"/U/ASYSTEMS/App/_CMS/member.guides.publications/member.guides.publications.us.php",
+		"/U/ASYSTEMS/App/_CMS/member2.profile/2017.04.04/member2.profile.us.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"U:\\ASYSTEMS\\App",
+			"U:\\ASYSTEMS\\Viewer",
+			"U:\\ASYSTEMS\\App",
+			"U:\\ASYSTEMS\\Viewer",
+			"U:\\ASYSTEMS\\App",
+			"C:\\UF.DEV\\VS2013\\CODE\\UF.VSO\\UNIFUTBOL®\\UFBasics",
+			"U:\\ASYSTEMS\\App\\",
+			"U:\\ASYSTEMS\\App\\unidragger",
+			"U:\\ASYSTEMS\\App\\",
+			"U:\\ASYSTEMS\\App\\_CMS",
+			"U:\\ASYSTEMS\\App\\",
+			"U:\\ASYSTEMS\\App\\_CMS",
+			"U:\\ASYSTEMS\\App\\",
+			"U:\\ASYSTEMS\\App\\_CMS",
+			"U:\\ASYSTEMS\\App\\",
+			"U:\\ASYSTEMS\\App\\_CMS",
+			"U:\\ASYSTEMS\\App",
+			"U:\\ASYSTEMS\\Viewer",
+			"U:\\ASYSTEMS\\App\\",
+			"U:\\ASYSTEMS\\App\\_CMS",
+			"U:\\ASYSTEMS\\App",
+			"U:\\ASYSTEMS\\Viewer\\",
+			"U:\\ASYSTEMS\\App\\",
+			"U:\\ASYSTEMS\\App\\_CMS",
+			"U:\\ASYSTEMS\\App\\CMS",
+			"U:\\ASYSTEMS\\App\\",
+			"U:\\ASYSTEMS\\App\\_CMS",
+			"U:\\ASYSTEMS\\App",
+			"U:\\xampp\\htdocs\\canariossatine\\",
+			"U:\\xampp\\htdocs\\canariossatine\\_controllers",
+			"U:\\ASYSTEMS\\App",
+			"E:\\Users\\hamstelfo\\Downloads\\3.- SOFTWARE\\Auth0.Angular.NET\\auth0.net-sample\\Api\\angular\\",
+			"E:\\Users\\hamstelfo\\Downloads\\3.- SOFTWARE\\UF-TEMPLATES\\products-WB02N9M12\\SuperAdmin-1-0-3\\",
+			"U:\\xampp\\htdocs\\test"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cartTotalprice",
+			"priceinfo",
+			"ordline",
+			".vat",
+			"newDIBS2017",
+			"cartProductprice",
+			"ordercon",
+			"tr-produc",
+			"tr-prod",
+			"currency",
+			"curren",
+			"tr-pro",
+			"colspan",
+			"priceinfo",
+			"ordline",
+			"nth",
+			"totalPrice",
+			"popo",
+			"amountpopo",
+			"totalDiscountPrice",
+			"* 100",
+			"*100",
+			"Discount",
+			"priceinfox",
+			"priceinfo",
+			"cartProductprice",
+			"price",
+			"numer",
+			"ordline",
+			".getAttribute(\"value\")",
+			"document.getElementById",
+			"ordline",
+			"fullname",
+			"delivery",
+			"cancelform_",
+			"htmlOrder",
+			"ordlin",
+			"order",
+			".js",
+			"delivery",
+			"ordline",
+			"ordline2",
+			"&gt;",
+			"&lt;",
+			"#0094cf",
+			"background-color",
+			"billingAddress",
+			"&gt;",
+			"?&gt;",
+			"&lt;",
+			"newDIBS2017",
+			"decorator",
+			"adress",
+			"delivery1.Navn",
+			"uniqueoid",
+			"callbackurl",
+			"accepturl",
+			".pml",
+			"header",
+			".p",
+			"rPaytype",
+			"methodofpayment",
+			".hid",
+			"timeimagecantopenbeforedate",
+			"cartTopWhenVisible",
+			"full",
+			"all_xml_cart_tabs",
+			"catalogname",
+			"resaveUrl",
+			"editCatalog.php",
+			"introtext",
+			"all_xml_cart_tabs",
+			"cart_activated",
+			"editcatalog",
+			"showshadows",
+			"PageWidth",
+			"pagedata.xml",
+			"editCatalog.php",
+			"cutCatalogSendtoweb.php",
+			"xx",
+			"editCatalog.php",
+			"xx",
+			"editCatalog.php",
+			"xml_",
+			"xx",
+			"all_xml_cart_tabs",
+			"cutca",
+			"/editCatalog.php",
+			"cart_email_orders_BEFORE_SAVE",
+			"cart_ac",
+			"catalog_ac",
+			"refreshChkPubObjects",
+			"xx",
+			"[\"obj\"]",
+			"obj",
+			"[\"obj\"]",
+			"editCatalog.php",
+			"editCatalog",
+			"cart_activated",
+			"xml",
+			"rAction",
+			"xml",
+			"Keepoldlinks",
+			"keepoldlinks",
+			"beginReUpload3",
+			"xml",
+			"beginReUpload2",
+			"=csv-upload-m",
+			"shopPendingProductsAll",
+			"overw",
+			"searchProducts",
+			"addProductToList",
+			"shopPendingProducts",
+			"processShopPendingProducts",
+			"shopPendingProducts",
+			"removepro",
+			"addProductToList",
+			"csv",
+			"modal-main-container",
+			"edit-folder-modal",
+			"UFModal",
+			"removeProduct",
+			"validateCSV",
+			"transformCSVCommaSeparator",
+			"output",
+			"csv",
+			"Open CSV modal",
+			"xx"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"getVal",
+			"",
+			">",
+			"<",
+			"#1C3664",
+			">",
+			"<",
+			"header-list-select-container",
+			"",
+			"Planificacion",
+			"cart_email_subject",
+			"",
+			"cart_email_footer",
+			"cart_email_subject",
+			"cart_email_header",
+			"cart_email_footer",
+			"cart_email_header",
+			"copyshopfrompublicationselect",
+			"default_cart_",
+			"",
+			"saveShop",
+			"shop.products",
+			"div",
+			"_f-user-list",
+			"pathCaptcha",
+			"",
+			"userPassword",
+			"userEmail",
+			"userIdSufix",
+			"cart-",
+			"\\t<value>",
+			"\\n<value>",
+			"\\n</data>",
+			"</data>\\n",
+			"",
+			"\" type=\"System.Resources.ResXFileRef, System.Windows.Forms\">\n    <value>res\\",
+			".bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>\n  </data><data name=\"",
+			".bmp\"<data name=\"",
+			"checkFixedHeaderVSGoogleIEInterval",
+			"\"",
+			"check",
+			"",
+			"formurlbackError",
+			"$sqlResult",
+			"sqlResult",
+			" OWNED USERS",
+			"owneduser",
+			"OwnedUser",
+			"forcedErrors",
+			"frmCedidos",
+			"edituserForm2016",
+			"<span class=\"required-sign\">(*)</span>",
+			"myProfileUP_",
+			" aux-str2=\"{{vm.lang.auxStr2}}\" aux-str3=\"{{vm.lang.auxStr3}}\"",
+			"editGenerelSettingsPage",
+			"",
+			"vm.sortClass",
+			"",
+			"\n",
+			"useAsBackground",
+			"class=\"ud-standard_tooltip\"",
+			"\"",
+			"updatelinkPlaceholder",
+			"vm.linkPlaceholder",
+			"ng-disabled=\"vm.disableSaving && vm.allowDisableSavingButtons\"",
+			"\"",
+			"",
+			"tooltipExtra(this, event",
+			"",
+			"atiné",
+			".member2-unidragger-details i.videoLinkIcon.",
+			".member2-unidragger-main-toolbar",
+			"",
+			": { max: 50, nullOk: false },",
+			"",
+			": { max: 50, nullOk: false }",
+			"",
+			": { max: 50, nullOk: false },",
+			"Content-Type: application/json; charset=utf-8",
+			"",
+			": { max: 50, nullOk: false },",
+			"",
+			": { max: 50, nullOk: false },",
+			": { max: 50, nullOk: false }",
+			"",
+			".member2-unidragger-item-properties",
+			"default:",
+			" Name=\"H",
+			" Name=\"D",
+			" Name=\"Z",
+			" Name=\"M",
+			" Name=\"O",
+			" Name=\"S",
+			" Name=\"F",
+			" Name=\"E",
+			" Name=\"J",
+			" Name=\"L",
+			" Name=\"C",
+			" Name=\"R",
+			" Name=\"G",
+			" Name=\"V",
+			" Name=\"A",
+			" Name=\"P",
+			" Name=\"T",
+			" Name=\"N",
+			" Name=\"I",
+			"",
+			">> ",
+			"() {",
+			"}",
+			" return _repositoryUF",
+			" return _repositoryUF.",
+			" ",
+			" { get { return Context.XXXXXX; } }",
+			"public IQueryable<",
+			"",
+			", ",
+			"",
+			">True<",
+			">False<",
+			".main-splash",
+			"",
+			" OR ",
+			" OR",
+			">",
+			"",
+			")>=90))"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/css/style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Ruben/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "ITRS.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
